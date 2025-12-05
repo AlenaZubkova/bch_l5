@@ -1,0 +1,19 @@
+{
+  "name": "Четвертый NFT",
+  "description": "Это четвертый NFT в коллекции",
+  "image": "https://raw.githubusercontent.com/AlenaZubkova/bch_l5/main/1.png",
+  "attributes": [
+    {
+      "trait_type": "Index",
+      "value": "1"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
